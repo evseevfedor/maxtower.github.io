@@ -1,0 +1,53 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  
+  font-family: monospace, sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1.5;
+  
+  color: #000;
+  background-color: #fff;
+}
+
+*,
+*:hover,
+*:active {
+  box-sizing: border-box;
+}
+
+.main-offer {
+  width: 400px;
+  
+  left: 0;
+  top: 0;
+  
+  margin: 0, auto;
+  
+  background-color: antiquewhite;
+}
+
+.offer-title {
+  padding: 5px 15px;
+  margin: 0;
+  
+  text-decoration: underline;
+  font-family: monospace;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 1.1;
+  font-style: normal;
+  
+  border-bottom: dotted 1px #dddddd; 
+}
+
+.offer-text {
+  margin: 0;
+  padding: 10px 15px;
+  
+  font-family: monospace;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.1;
+}
